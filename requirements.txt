@@ -1,0 +1,11 @@
+PyAutoGUI~=0.9.52
+pytesseract~=0.3.7
+pywhatkit~=3.9
+Pillow~=8.2.0
+pyttsx3~=2.90
+wikipedia~=1.4.0
+psycopg2~=2.8.6
+PyDictionary~=2.0.1
+numba~=0.53.1
+PyAudio~=0.2.11
+pyperclip~=1.8.2
